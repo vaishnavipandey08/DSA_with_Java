@@ -11,7 +11,7 @@ public class sumOfn {
         sum = sum + i ;
         sumOfNumbers(i+1 , n, sum);
     }
-    public static void main(String[] args) {  
+    public static void main(String[] args) {   
         Scanner sc = new Scanner(System.in) ;
 
         System.out.println("Give a Number of sum : ");
