@@ -16,3 +16,5 @@ public class Backtracking {
         printPermutation(str, "", 0);
     }
 }
+
+//Time Complexity : n * n!
